@@ -42,6 +42,3 @@
 2 本混合方法计算可调节词林与hownet计算结果的权重，表格中成绩可能为最大值(两词均被同时收录)。</br>
 
 如需了解预训练词向量计算的中文词语相关度，可参见：[中文近义词工具包Synonyms](https://github.com/huyingxi/Synonyms)
-
-**原创不易，欢迎打赏、捐赠：**</br>
-<img src="https://github.com/yaleimeng/Scrapy_Projects/blob/master/movie/payQR.png" title="Logo" width="400" /> 
